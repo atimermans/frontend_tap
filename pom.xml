@@ -16,6 +16,11 @@
 
         <drivers.dir>${project.basedir}/drivers</drivers.dir>
         <drivers.downloader.phase>pre-integration-test</drivers.downloader.phase>
+        
+		<sonar.projectKey>atimermans_frontend_tap</sonar.projectKey>
+		<sonar.organization>atimermans</sonar.organization>
+		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		<sonar.login>3549ad14ce471f12701405e732287ac0255707fc</sonar.login>
     </properties>
 
     <parent>
