@@ -1,0 +1,62 @@
+!SESSION 2020-05-13 18:25:27.475 -----------------------------------------------
+eclipse.buildId=4.14.0.I20191210-0610
+java.version=13.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_GB
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:05.513
+!MESSAGE Schedule fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:05.522
+!MESSAGE Schedule version update jobs
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:06.254
+!MESSAGE Fetching all notifications
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:06.256
+!MESSAGE Requesting user info (notification settings URL)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-05-13 18:26:07.530
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:08.210
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:08.310
+!MESSAGE HTTP Response code :200
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:08.311
+!MESSAGE Parse notifications
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:08.317
+!MESSAGE Save JSON notifications content to cache file C:\Users\Admin\Documents\UFV Local (08.04.2020)\4. Cuarto\JUNIO\TAP\todo3CRUD\webapp\.metadata\.plugins\com.vaadin.integration.eclipse\notifications-cache.json
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:08.744
+!MESSAGE BrowserCore initialized.
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:09.057
+!MESSAGE Icon https://vaadin.com/documents/10187/10395/tori-icon-blue-bg-90px/4597dffb-3868-4711-b422-8fc3e71844e6?t=1394217295000 is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:09.662
+!MESSAGE Image https://website.vaadin.com/hubfs/MarCom/Vaadin14%20pro%20cert%20now%20avail.jpg is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:10.047
+!MESSAGE Image https://website.vaadin.com/hubfs/MarCom/Julia%20Blog2.jpg is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:10.209
+!MESSAGE Image https://website.vaadin.com/hubfs/Building%20a%20dashboard%20for%20a%20REST%20web%20service%20in%20Java-1.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:10.353
+!MESSAGE Image https://website.vaadin.com/hubfs/14_2_beta-compressor.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:10.443
+!MESSAGE Image https://website.vaadin.com/hubfs/Data%20Sheet%20Series.png is downloaded
+
+!ENTRY com.vaadin.designer2 1 0 2020-05-13 18:26:10.454
+!MESSAGE Schedule fetching new notifications
